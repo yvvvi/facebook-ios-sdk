@@ -83,6 +83,6 @@ See the [SECURITY POLICY](SECURITY.md) for more info on our bug bounty program.
   agree that you will not share information with us about children under the age of 13.
 - You agree to comply with all applicable laws and regulations and also agree to our Terms
   <https://www.facebook.com/policies/>, including our Platform Policies <https://developers.facebook.com/policy/> and
-  Advertising Guidelines, as applicable <https://www.facebook.com/ad_guidelines.php>.
+    Advertising Guidelines, as applicable <https://www.facebook.com/ad_guidelines.php>.
 
 By using the Facebook SDK for iOS you agree to these terms.
